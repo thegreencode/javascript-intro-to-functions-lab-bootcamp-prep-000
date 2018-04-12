@@ -39,6 +39,67 @@ function logWhisper(string) {
 
 logWhisper('HELLO')
 
+<<<<<<< HEAD
+=======
+
+
+
+
+function sayHiToGrandma(string) {
+'HELLO'.toUpperCase()
+  return("YES INDEED!")
+  }
+  
+  sayHiToGrandma('HELLO')
+ 
+ /* 
+  describe('sayHiToGrandma(string)', function() {
+  it('returns "I can\'t hear you!" if `string` is lowercase', function() {
+    expect(sayHiToGrandma('hello')).toEqual("I can't hear you!")
+  }) */
+
+
+function sayHiToGrandma(string) {
+    'hello'.toLowerCase();
+    return("I can\'t hear you!");
+    
+}
+
+sayHiToGrandma('hello');
+
+
+
+
+
+function sayHiToGrandma(string) {
+    if ("I love you, Grandma.");
+    return("I love you, too.")
+}
+
+sayHiToGrandma("I love you, Grandma.")
+
+
+
+
+function sayHiToGrandma(string) {
+  'HELLO'.toUpperCase();
+    return("YES INDEED!");
+}
+
+sayHiToGrandma('HELLO')
+
+
+
+
+
+
+
+ 
+ 
+ 
+  
+  
+>>>>>>> fc4d7f9dbefb7c1497eef1d6afcc32f3a5add698
 
 
 
